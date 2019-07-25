@@ -1,4 +1,4 @@
-package spec
+package golang
 
 // Response of flnow plugin spec for Golang
 type Response struct {
