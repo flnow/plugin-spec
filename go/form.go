@@ -1,12 +1,4 @@
-package main
-
-// Response of flnow plugin spec for Golang
-type Response struct {
-	Result  bool        `json:"result"`
-	Message string      `json:"message"`
-	Data    interface{} `json:"data"`
-	Raw     interface{} `json:"raw"`
-}
+package form
 
 // Field to descript field of a Form
 type Field struct {
