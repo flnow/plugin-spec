@@ -1,4 +1,4 @@
-package form
+package spec
 
 // Field to descript field of a Form
 type Field struct {
